@@ -1,7 +1,7 @@
 
 ### Olá! Eu sou o André Luis 👋
 
-[![Blog](https://img.shields.io/website?label=André-Luis&style=for-the-badge&url=https://bit.ly/andreLuuis)](https://bit.ly/andreLuuis)
+[![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://bit.ly/andreLuuis)](https://bit.ly/andreLuuis)
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andreLuisPires&show_icons=true&theme=dracula)
 
