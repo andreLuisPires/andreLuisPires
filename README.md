@@ -35,7 +35,7 @@
         </tr>
     	<tr>
 		<td>2</td>
-            	<td><a href="https://github.com/PhilipeeX/jedis-project?tab=readme-ov-file#jedis-project"><b>Todo List React.js</b></a></td>
+            	<td><a href="https://github.com/andreLuisPires/todo-list-react.js"><b>Todo List React.js</b></a></td>
 		<td>Developer</td>
         </tr>
 	 <tr>
