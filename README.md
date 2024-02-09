@@ -1,12 +1,11 @@
 
-### Olá! Eu sou o André Luis 👋
+## Olá! Eu sou o André Luis 👋
 
+#### Portfólio:
 [![Blog](https://img.shields.io/website?label=Portfólio&style=for-the-badge&url=https://bit.ly/andreLuuis)](https://portfolio-andre-luis.vercel.app/)
 
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andreLuisPires&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreLuisPires&layout=compact)
 
-### Tecnologias que eu uso no meu dia
+## 💻 Tecnologias que eu uso no meu dia:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -18,5 +17,35 @@
     <img align="center" alt="Tailwind_CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div><br/>
+
+<h3>Projetos</h3>
+<table>
+    <thead align="center">
+        <tr border: none;>
+            <td><b>Id</b></td>
+	    <td><b>Projetos</b></td>
+	    <td><b>Skills</b></td>
+        </tr>
+    </thead>
+    <tbody>
+	<tr>
+		<td>1</td>
+            	<td><a href="https://github.com/andreLuisPires/Nebula-Control"><b>Nebula Control</b></a></td>
+		<td>Developer</td>
+        </tr>
+    	<tr>
+		<td>2</td>
+            	<td><a href="https://github.com/PhilipeeX/jedis-project?tab=readme-ov-file#jedis-project"><b>Todo List React.js</b></a></td>
+		<td>Developer</td>
+        </tr>
+	 <tr>
+    </tbody>
+</table>
+
+
+## 📊 Estatísticas do GitHub:
+![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andreLuisPires&show_icons=true&theme=dracula)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andreLuisPires&theme=dracula-green&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andreLuisPires&theme=dracula-green&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 Entusiasta fervoroso do universo digital, forjo a paisagem visual que ganha vida no monitor. 💻🚀
